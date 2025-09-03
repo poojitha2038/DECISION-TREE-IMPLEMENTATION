@@ -57,4 +57,5 @@ One of the strongest features of a Decision Tree is interpretability. With `plot
 Conclusion
 Finally, **Task 1: Decision Tree Implementation** offers a thorough insight into one of the core algorithms in machine learning. The task extends from **data preprocessing to model evaluation and visualization**. Through this task implementation, one develops hands-on experience in constructing classification models, understanding results, and respecting the benefits and limitations of Decision Trees. This is a sound basis for proceeding to more sophisticated models and ensemble techniques in later tasks.
 
-  
+  OUTPUT
+  <img width="1153" height="652" alt="Image" src="https://github.com/user-attachments/assets/c955d7a3-4dc1-4842-961e-bc4da52173c3" />
